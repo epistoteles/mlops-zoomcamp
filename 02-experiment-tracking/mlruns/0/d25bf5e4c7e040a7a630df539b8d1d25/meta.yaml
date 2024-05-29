@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d25bf5e4c7e040a7a630df539b8d1d25/artifacts
+deleted_time: 1716977947675
+end_time: 1716977887435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d25bf5e4c7e040a7a630df539b8d1d25
+run_name: industrious-wren-909
+run_uuid: d25bf5e4c7e040a7a630df539b8d1d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716977887425
+status: 4
+tags: []
+user_id: korbinian

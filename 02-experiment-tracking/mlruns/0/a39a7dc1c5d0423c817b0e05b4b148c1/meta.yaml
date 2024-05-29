@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a39a7dc1c5d0423c817b0e05b4b148c1/artifacts
+end_time: 1716979999262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a39a7dc1c5d0423c817b0e05b4b148c1
+run_name: adorable-bear-887
+run_uuid: a39a7dc1c5d0423c817b0e05b4b148c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716979986928
+status: 3
+tags: []
+user_id: korbinian

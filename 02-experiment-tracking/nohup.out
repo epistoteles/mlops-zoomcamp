@@ -1,0 +1,9 @@
+[2024-05-29 12:55:58 +0200] [295416] [INFO] Starting gunicorn 22.0.0
+[2024-05-29 12:55:58 +0200] [295416] [INFO] Listening at: http://127.0.0.1:5000 (295416)
+[2024-05-29 12:55:58 +0200] [295416] [INFO] Using worker: sync
+[2024-05-29 12:55:58 +0200] [295417] [INFO] Booting worker with pid: 295417
+[2024-05-29 12:55:58 +0200] [295418] [INFO] Booting worker with pid: 295418
+[2024-05-29 12:55:58 +0200] [295419] [INFO] Booting worker with pid: 295419
+[2024-05-29 12:55:58 +0200] [295420] [INFO] Booting worker with pid: 295420
+[2024-05-29 13:00:25 +0200] [295416] [INFO] Handling signal: winch
+[2024-05-29 13:00:26 +0200] [295416] [INFO] Handling signal: winch

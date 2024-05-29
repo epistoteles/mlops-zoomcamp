@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2afca2c250684527a4d583c83a8e670a/artifacts
+end_time: 1716977938198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2afca2c250684527a4d583c83a8e670a
+run_name: redolent-chimp-16
+run_uuid: 2afca2c250684527a4d583c83a8e670a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716977923501
+status: 3
+tags: []
+user_id: korbinian

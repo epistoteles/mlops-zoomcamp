@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9181205bf3bf4977b9aba75ea9034d1a/artifacts
+deleted_time: 1716977574324
+end_time: 1716977563705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9181205bf3bf4977b9aba75ea9034d1a
+run_name: serious-robin-763
+run_uuid: 9181205bf3bf4977b9aba75ea9034d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716977563693
+status: 3
+tags: []
+user_id: korbinian

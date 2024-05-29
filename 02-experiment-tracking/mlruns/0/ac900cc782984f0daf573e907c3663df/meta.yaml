@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ac900cc782984f0daf573e907c3663df/artifacts
+deleted_time: 1716977947676
+end_time: 1716977836862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ac900cc782984f0daf573e907c3663df
+run_name: debonair-seal-447
+run_uuid: ac900cc782984f0daf573e907c3663df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716977823480
+status: 3
+tags: []
+user_id: korbinian
