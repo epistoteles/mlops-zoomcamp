@@ -1,0 +1,15 @@
+{
+  "id": "f86e7303-2833-4f27-acd9-4684e8cc4304",
+  "name": "NYC Taxi",
+  "description": "",
+  "dashboard": {
+    "name": "",
+    "panels": [],
+    "tabs": [],
+    "tab_id_to_panel_ids": {}
+  },
+  "team_id": null,
+  "date_from": null,
+  "date_to": null,
+  "created_at": "2024-06-25T14:47:21.813687"
+}
